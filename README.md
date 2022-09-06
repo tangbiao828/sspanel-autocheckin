@@ -170,7 +170,7 @@ $ chmod +x ssp-autocheckin.sh && ./ssp-autocheckin.sh
 签到站点: DOMAIN
 签到用户: EMAIL
 签到时间: 2021-05-19 12:46:10
-签到状态: 续命1天, 获得了 111 MB流量.
+签到状态: 续命1天, 获得了 120 MB流量.
 
 用户 2
 签到站点: DOMAIN
